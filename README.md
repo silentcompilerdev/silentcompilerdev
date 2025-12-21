@@ -1,5 +1,5 @@
 <h1 align="center">Silent Compiler</h1>
-<p align="center"><em>Build quietly. Improve relentlessly.</em></p>
+<p align="center"><em>Learning every day. Building with purpose.</em></p>
 
 ---
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Clean systems • Readable code • Steady growth
+  Curious mind • Strong basics • Consistent progress
 </p>
 
 ---
