@@ -4,18 +4,14 @@
   <em>Build quietly. Improve relentlessly.</em>
 </p>
 
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="160" style="border-radius:50%;" />
-</p>
-
 ---
 
 ## 👋 About Me
 
 I’m a **full-stack web developer** focused on building **clean, functional, and scalable web applications**.
 
-I enjoy working across the stack — from crafting responsive UIs to designing APIs and data models.  
-My approach is simple: **strong fundamentals, clear code, steady growth**.
+I enjoy working across the stack — from crafting responsive interfaces to designing APIs and data models.  
+My approach is simple: **strong fundamentals, readable code, steady growth**.
 
 ---
 
@@ -31,9 +27,9 @@ My approach is simple: **strong fundamentals, clear code, steady growth**.
 
 ### 🌐 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 </p>
 
@@ -43,46 +39,12 @@ My approach is simple: **strong fundamentals, clear code, steady growth**.
   <img src="https://img.shields.io/badge/REST_API-121212?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Workflow
+### 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-121212?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-> A selection of projects that reflect my learning, problem-solving, and full-stack skills.
-
-### 🔹 Project One
-**Description:**  
-Briefly explain what the project does and the problem it solves.
-
-**Tech:** React, Node.js, Express, MongoDB  
-🔗 Repo: `LINK_HERE`  
-🌐 Live: `LINK_HERE`
-
----
-
-### 🔹 Project Two
-**Description:**  
-Mention a real-world use case or feature you’re proud of.
-
-**Tech:** MERN Stack, Tailwind CSS  
-🔗 Repo: `LINK_HERE`  
-🌐 Live: `LINK_HERE`
-
----
-
-### 🔹 Project Three
-**Description:**  
-Highlight backend logic, APIs, or performance focus.
-
-**Tech:** Go, REST API, MongoDB  
-🔗 Repo: `LINK_HERE`
 
 ---
 
@@ -91,7 +53,7 @@ Highlight backend logic, APIs, or performance focus.
 - Building **production-style MERN applications**
 - Improving backend structure & API design
 - Writing cleaner, more maintainable code
-- Growing a strong public GitHub portfolio
+- Strengthening problem-solving fundamentals
 
 ---
 
@@ -99,15 +61,24 @@ Highlight backend logic, APIs, or performance focus.
 
 > Consistency beats intensity.  
 > Systems outlast shortcuts.  
-> Let results speak.
+> Let the work speak.
 
 ---
 
-## 📬 Connect
+## 🌐 Connect with Me
 
-- GitHub: **@silentcompilerdev**
-- YouTube: Coding & creative tech *(coming soon)*
-- Portfolio: In progress
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCaISi9ABHY1bJvmhlo5abAA">
+    <img src="https://img.shields.io/badge/YouTube-srkcodes-121212?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  </a>
+  <a href="https://subbareddy-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/subbareddykarri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Subbu-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
 
 ---
 
