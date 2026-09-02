@@ -1,4 +1,4 @@
-<h1 align="center">Silent Compiler</h1>
+<h1 align="center">Subbareddy K</h1>
 <p align="center"><em>Learning every day. Building with purpose.</em></p>
 
 ---
